@@ -1,0 +1,6 @@
+.card-block {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    font-weight: bold;
+}

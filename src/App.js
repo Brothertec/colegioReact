@@ -1,9 +1,17 @@
-import React from 'react';
+import React, { useState} from 'react';
+
 import Routes from './Routes';
 
+const TarefaContext = React.createContext('Bercario');
+
 function App() {
+
+  
+
   return (
-    <Routes/>    
+    <div>
+      <Routes/> 
+    </div>   
   );
 }
 

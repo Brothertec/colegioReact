@@ -1,0 +1,17 @@
+#carouselKids {
+    width: 100%;
+}
+
+.carousel-img-bcg {
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+@media (min-width: 992px) {
+    .carousel-img-bcg {
+        height: 600px;
+    }
+}
