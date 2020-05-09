@@ -12,7 +12,7 @@ export default function HomePost(props) {
                 <div className="row">
                     <h3>{props.titulo}</h3>
                 </div>
-                {props.video &&
+                {props.principal &&
                     <div className="row">
                         <p className="lead lead--resizible">
                             {props.principal}
