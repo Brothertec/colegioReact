@@ -1,7 +1,12 @@
-import React from "react";
-import { Redirect, useHistory } from "react-router-dom";
+import React from 'react';
+import { useHistory } from 'react-router-dom';
+import { TarefasContext } from '../../context/TarefasContext';
+import { useContext } from 'react';
+
 
 export default function ModalSenha() {
+
+    const {tarefa} = useContext(TarefasContext);
 
     const history = useHistory();
 
@@ -19,14 +24,18 @@ export default function ModalSenha() {
         var senhaInformada = document.getElementById('senha').value;
         var alertSenha = document.getElementById('alertSenha');
         console.log(senhaInformada);
-        if (senhaInformada !== '123456') {
-            alertSenha.classList.remove('d-none');
-        }
-        else {
+        if ((tarefa === 'Bercario' && senhaInformada === 'BEREJG') || (tarefa === 'Infantil2' && senhaInformada === 'INF2EJG')
+        || (tarefa === 'Infantil3' && senhaInformada === 'ANTIL3EJG') || (tarefa === 'Infantil4' && senhaInformada === 'FANTIL4EJG')
+        || (tarefa === 'Infantil5' && senhaInformada === 'TIL5EJG') || (tarefa === 'PrimeiroAno' && senhaInformada === 'PANOEJG')
+        || (tarefa === 'SegundoAno' && senhaInformada === 'GUNDONOEJG') || (tarefa === 'TerceiroAno' && senhaInformada === 'IROANOEJG')
+        || (tarefa === 'QuartoAno' && senhaInformada === 'TOANOEJG')) {
             console.log('Redirect');
             document.querySelector("#btnFechaModal").click();
             console.log('btnClick');
             history.push('/Tarefas'); 
+        }
+        else {
+            alertSenha.classList.remove('d-none');
         }
     }
 
