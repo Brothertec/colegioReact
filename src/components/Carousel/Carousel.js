@@ -1,14 +1,15 @@
 import React from 'react';
 
-import img1 from '../../img/home/img1.jpg';
-import img2 from '../../img/home/img2.jpg';
-import img3 from '../../img/home/img3.jpg';
+import img1 from '../../img/home/Garota-p-min.jpg';
+import img2 from '../../img/home/Sala-de-jogos-min.jpg';
+import img3 from '../../img/home/Parque-min.jpg';
+import img4 from '../../img/home/Refeitorio-min.jpg';
 
 import './carousel.css';
 
 
 export default function Carosel() {
-    var listaImages = [img1, img2, img3];
+    var listaImages = [img1, img2, img3, img4];
 
     function setImagens(img) {
         var sectionStyle = {
@@ -33,6 +34,7 @@ export default function Carosel() {
                 <li data-target="#carouselKids" data-slide-to="0" className="active" key="1"></li>
                 <li data-target="#carouselKids" data-slide-to="1" key="2"></li>
                 <li data-target="#carouselKids" data-slide-to="2" key="3"></li>
+                <li data-target="#carouselKids" data-slide-to="3" key="4"></li>
             </ol>
             <div className="carousel-inner">
                 {listaImages.map((imagem, index) => {

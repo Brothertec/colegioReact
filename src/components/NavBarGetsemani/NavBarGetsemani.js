@@ -7,7 +7,7 @@ import NavLink from '../Nav/NavLink';
 import ModalSenha from '../ModalSenha/ModalSenha';
 
 
-import logo from '../../img/logo.jpeg';
+import logo from '../../img/logo.png';
 
 
 export default function NavBarGetsemani(props) {
