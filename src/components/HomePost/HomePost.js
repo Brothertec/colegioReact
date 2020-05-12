@@ -1,6 +1,5 @@
 import React from 'react';
 
-import './homepost.css';
 
 export default function HomePost(props) {
 

@@ -17,3 +17,12 @@
         padding-top: 106px;
     }
 }
+
+.post {
+    min-height: 250px;
+    padding: 35px;
+}
+
+.post-title {
+    
+}
