@@ -18,8 +18,7 @@ export default function ImagensTarefa(props) {
                 }
                 <div className="row">
                     {imagens.map((imagem) => {
-                        { console.log('teste2') }
-                        return (<img className='col-md-6' src={imagem}></img>)
+                        return (<a className='col-md-6' href={imagem} download> <img  className='col-md' src={imagem}></img></a>)
                     })}
                 </div>
             </div>
