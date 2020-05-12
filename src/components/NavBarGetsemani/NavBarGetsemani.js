@@ -3,7 +3,7 @@ import React from 'react';
 import Nav from '../Nav/Nav';
 import NavDropDown from '../Nav/NavDropDown';
 import NavDropDownItem from '../Nav/NavDropDownItem';
-import NavLink from '../Nav/NavLink';
+import NavLink from '../Nav/NavLinkCustom';
 import ModalSenha from '../ModalSenha/ModalSenha';
 
 

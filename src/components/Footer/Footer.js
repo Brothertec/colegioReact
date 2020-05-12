@@ -2,6 +2,7 @@ import React from 'react';
 
 import './footer.css';
 import logo from '../../img/logo2.png';
+import { Link } from 'react-router-dom';
 
 export default function Footer() {
     return (<footer className="meu-rodape">
@@ -13,7 +14,7 @@ export default function Footer() {
                 </div>
                 <div className="col-6 col-md">
                     <h5>Features</h5>
-                    <ul className="list-unstyled text-small">
+                    <ul className="list-unstyled text-small d-none" s>
                         <li><a className="text-muted" href="#">Cool stuff</a></li>
                         <li><a className="text-muted" href="#">Random feature</a></li>
                         <li><a className="text-muted" href="#">Team feature</a></li>
@@ -24,7 +25,7 @@ export default function Footer() {
                 </div>
                 <div className="col-6 col-md">
                     <h5>Resources</h5>
-                    <ul className="list-unstyled text-small">
+                    <ul className="list-unstyled text-small d-none">
                         <li><a className="text-muted" href="#">Resource</a></li>
                         <li><a className="text-muted" href="#">Resource name</a></li>
                         <li><a className="text-muted" href="#">Another resource</a></li>
@@ -34,10 +35,10 @@ export default function Footer() {
                 <div className="col-6 col-md">
                     <h5>About</h5>
                     <ul className="list-unstyled text-small">
-                        <li><a className="text-muted" href="#">Team</a></li>
-                        <li><a className="text-muted" href="#">Locations</a></li>
-                        <li><a className="text-muted" href="#">Privacy</a></li>
-                        <li><a className="text-muted" href="#">Terms</a></li>
+                        <li><Link to="/Sobre" className="text-muted">Sobre</Link></li>
+                        <li><Link to="/" className="text-muted">Início</Link></li>
+                        <li><a className="text-muted" href="https://brothertec.com.br">Equipe de Desenvolvimento</a></li>
+                        <li className = "d-none"><a className="text-muted" href="#">Terms</a></li>
                     </ul>
                 </div>
             </div>
