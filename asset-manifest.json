@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/colegioReact/static/css/main.932c03be.chunk.css",
+    "main.js": "/colegioReact/static/js/main.2e4581ab.chunk.js",
+    "main.js.map": "/colegioReact/static/js/main.2e4581ab.chunk.js.map",
+    "runtime-main.js": "/colegioReact/static/js/runtime-main.6a3bd70b.js",
+    "runtime-main.js.map": "/colegioReact/static/js/runtime-main.6a3bd70b.js.map",
+    "static/js/2.a5ecb447.chunk.js": "/colegioReact/static/js/2.a5ecb447.chunk.js",
+    "static/js/2.a5ecb447.chunk.js.map": "/colegioReact/static/js/2.a5ecb447.chunk.js.map",
+    "index.html": "/colegioReact/index.html",
+    "precache-manifest.56cc9d83226916f3b393ff52990c07bc.js": "/colegioReact/precache-manifest.56cc9d83226916f3b393ff52990c07bc.js",
+    "service-worker.js": "/colegioReact/service-worker.js",
+    "static/css/main.932c03be.chunk.css.map": "/colegioReact/static/css/main.932c03be.chunk.css.map",
+    "static/js/2.a5ecb447.chunk.js.LICENSE.txt": "/colegioReact/static/js/2.a5ecb447.chunk.js.LICENSE.txt",
+    "static/media/Garota-p-min.jpg": "/colegioReact/static/media/Garota-p-min.65ff01be.jpg",
+    "static/media/Parque-min.jpg": "/colegioReact/static/media/Parque-min.f344e902.jpg",
+    "static/media/Refeitorio-min.jpg": "/colegioReact/static/media/Refeitorio-min.42691eaf.jpg",
+    "static/media/Sala-de-jogos-min.jpg": "/colegioReact/static/media/Sala-de-jogos-min.545c814a.jpg",
+    "static/media/berçario.docx": "/colegioReact/static/media/berçario.fa2981a7.docx",
+    "static/media/bibliotecas.png": "/colegioReact/static/media/bibliotecas.cf53f7f0.png",
+    "static/media/gerenciamento-de-tarefas-670x419.png": "/colegioReact/static/media/gerenciamento-de-tarefas-670x419.351cf6bb.png",
+    "static/media/historiacoronavirus.pdf": "/colegioReact/static/media/historiacoronavirus.1b99b27b.pdf",
+    "static/media/img1.jpg": "/colegioReact/static/media/img1.2214e8e6.jpg",
+    "static/media/img2.jpg": "/colegioReact/static/media/img2.fcfc012d.jpg",
+    "static/media/img3.jpg": "/colegioReact/static/media/img3.da6a9c84.jpg",
+    "static/media/img4.jpg": "/colegioReact/static/media/img4.a1f00c58.jpg",
+    "static/media/jess-bailey-l3N9Q27zULw-unsplash.jpg": "/colegioReact/static/media/jess-bailey-l3N9Q27zULw-unsplash.c1f4b69a.jpg",
+    "static/media/linguas.jpg": "/colegioReact/static/media/linguas.c184e9f3.jpg",
+    "static/media/logo.png": "/colegioReact/static/media/logo.33c684e7.png",
+    "static/media/logo2.png": "/colegioReact/static/media/logo2.c58bbe60.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a3bd70b.js",
+    "static/js/2.a5ecb447.chunk.js",
+    "static/css/main.932c03be.chunk.css",
+    "static/js/main.2e4581ab.chunk.js"
+  ]
+}
