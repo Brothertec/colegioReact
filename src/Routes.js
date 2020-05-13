@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, HashRouter, Route, Switch } from 'react-router-dom';
 import Home from './components/Home/Home';
 import Sobre from './components/Sobre/Sobre';
 import Tarefas from './components/Tarefas/Tarefa';
@@ -10,7 +10,7 @@ import TurmaProvider from './context/TurmaContext';
 
 export default function Routes(props) {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Switch>
                 <TurmaProvider>
                 <TarefasProvider>
@@ -20,6 +20,6 @@ export default function Routes(props) {
                 </TarefasProvider>
                 </TurmaProvider>
             </Switch>
-        </BrowserRouter>
+        </HashRouter>
     );
 }
