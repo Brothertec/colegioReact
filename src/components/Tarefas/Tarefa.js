@@ -10,6 +10,7 @@ import { TurmaContext } from '../../context/TurmaContext';
 import imagem from '../../img/home/gerenciamento-de-tarefas-670x419.png';
 
 import './tarefa.css';
+import BannerImage from '../BannerImage/BannerImage';
 
 export default function Tarefas(props) {
     const { turma } = useContext(TurmaContext);
@@ -17,22 +18,10 @@ export default function Tarefas(props) {
     return (
         <div>
             <NavBarGetsemani />
-            <div style={{
-                width: '100%',
-                height: '400PX',
-                backgroundImage: `url(${imagem})`,
-                backgroundRepeat: 'no-repeat',
-                backgroundSize: 'cover',
-                backgroundPosition: 'center'
-            }}>
-                <div className="container">
-                    <div class="row align-items-center justify-content-center texto-titulo">
-                        <div class="col-md-9  text-center">
-                            <h1 class="mb-2 bread" style={{lineHeight: '400px', fontWeight: '900', fontSize : '40px', color: '#'}}>Tarefas</h1>
-                        </div>
-                    </div>
-                </div>
-            </div>
+           <BannerImage
+                imagem = {imagem}
+                texto = 'Tarefas'
+            />
             {turma === 'Bercario' &&
                 <Bercario />
             }
