@@ -18,7 +18,7 @@ export default function ImagensTarefa(props) {
                 }
                 <div className="row">
                     {imagens.map((imagem) => {
-                        return (<a className='col-md-6' href={imagem} download> <img  className='col-md' src={imagem}></img></a>)
+                        return (<div className='col-md-6' style={{ marginTop: '20px'}}><a  style={{border:'solid', display:'block', height: '100%'}} href={imagem} download> <img  className='img-fluid' src={imagem}></img></a></div>)
                     })}
                 </div>
             </div>
