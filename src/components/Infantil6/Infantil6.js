@@ -3,66 +3,66 @@ import HomePost from '../HomePost/HomePost';
 import ImagensTarefa from '../ImagensTarefa/ImagensTarefa';
 
 import trabalhoDirigido from '../../arq/trabalhoDirigido/5anos.docx';
-import img1 from '../../img/infantil5/semana1/img1.jpg';
-import img2 from '../../img/infantil5/semana1/img2.jpg';
-import img3 from '../../img/infantil5/semana1/img3.jpg';
-import img4 from '../../img/infantil5/semana1/img4.jpg';
-import img5 from '../../img/infantil5/semana1/img5.jpg';
-import img6 from '../../img/infantil5/semana1/img6.jpg';
-import img7 from '../../img/infantil5/semana1/img7.jpg';
-import img8 from '../../img/infantil5/semana1/img8.jpg';
-import img9 from '../../img/infantil5/semana1/img9.jpg';
-import img10 from '../../img/infantil5/semana1/img10.jpg';
-import img11 from '../../img/infantil5/semana1/img11.jpg';
-import img12 from '../../img/infantil5/semana1/img12.jpg';
-import img13 from '../../img/infantil5/semana1/img13.jpg';
-import img14 from '../../img/infantil5/semana1/img14.jpg';
-import img15 from '../../img/infantil5/semana2/img15.jpg';
-import img16 from '../../img/infantil5/semana2/img16.jpg';
-import img17 from '../../img/infantil5/semana2/img17.jpg';
-import img18 from '../../img/infantil5/semana2/img18.jpg';
-import img19 from '../../img/infantil5/semana2/img19.jpg';
-import img20 from '../../img/infantil5/semana2/img20.jpg';
-import img21 from '../../img/infantil5/semana2/img21.jpg';
-import img22 from '../../img/infantil5/semana2/img22.jpg';
-import img23 from '../../img/infantil5/semana2/img23.jpg';
-import img24 from '../../img/infantil5/semana3/img24.jpg';
-import img25 from '../../img/infantil5/semana3/img25.jpg';
-import img26 from '../../img/infantil5/semana3/img26.jpg';
-import img27 from '../../img/infantil5/semana3/img27.jpg';
-import img28 from '../../img/infantil5/semana3/img28.jpg';
-import img29 from '../../img/infantil5/semana3/img29.jpg';
-import img30 from '../../img/infantil5/semana3/img30.jpg';
-import img31 from '../../img/infantil5/semana3/img31.jpg';
-import img32 from '../../img/infantil5/semana3/img32.jpg';
-import img33 from '../../img/infantil5/semana3/img33.jpg';
-import img34 from '../../img/infantil5/semana3/img34.jpg';
-import img35 from '../../img/infantil5/semana4/img35.jpg';
-import img36 from '../../img/infantil5/semana4/img36.jpg';
-import img37 from '../../img/infantil5/semana4/img37.jpg';
-import img38 from '../../img/infantil5/semana4/img38.jpg';
-import img39 from '../../img/infantil5/semana4/img39.jpg';
-import img40 from '../../img/infantil5/semana4/img40.jpg';
-import img41 from '../../img/infantil5/semana4/img41.jpg';
-import img42 from '../../img/infantil5/semana4/img42.jpg';
-import img43 from '../../img/infantil5/semana4/img43.jpg';
-import img44 from '../../img/infantil5/semana4/img44.jpg';
-import img45 from '../../img/infantil5/semana4/img45.jpg';
-import img46 from '../../img/infantil5/semana4/img46.jpg';
-import img47 from '../../img/infantil5/semana4/img47.jpg';
-import img48 from '../../img/infantil5/semana4/img48.jpg';
-import img49 from '../../img/infantil5/semana5/img49.jpg';
-import img50 from '../../img/infantil5/semana5/img50.jpg';
-import img51 from '../../img/infantil5/semana4/img51.jpg';
-import img52 from '../../img/infantil5/semana5/img52.jpg';
-import img53 from '../../img/infantil5/semana5/img53.jpg';
-import img54 from '../../img/infantil5/semana5/img54.jpg';
-import img55 from '../../img/infantil5/semana5/img55.jpg';
-import img56 from '../../img/infantil5/semana5/img56.jpg';
-import img57 from '../../img/infantil5/semana5/img57.jpg';
-import img58 from '../../img/infantil5/semana5/img58.jpg';
-import img59 from '../../img/infantil5/semana5/img59.jpg';
-import img60 from '../../img/infantil5/semana5/img60.jpg';
+import img1 from '../../img/infantil6/semana1/img1.jpg';
+import img2 from '../../img/infantil6/semana1/img2.jpg';
+import img3 from '../../img/infantil6/semana1/img3.jpg';
+import img4 from '../../img/infantil6/semana1/img4.jpg';
+import img5 from '../../img/infantil6/semana1/img5.jpg';
+import img6 from '../../img/infantil6/semana1/img6.jpg';
+import img7 from '../../img/infantil6/semana1/img7.jpg';
+import img8 from '../../img/infantil6/semana1/img8.jpg';
+import img9 from '../../img/infantil6/semana1/img9.jpg';
+import img10 from '../../img/infantil6/semana1/img10.jpg';
+import img11 from '../../img/infantil6/semana1/img11.jpg';
+import img12 from '../../img/infantil6/semana1/img12.jpg';
+import img13 from '../../img/infantil6/semana1/img13.jpg';
+import img14 from '../../img/infantil6/semana1/img14.jpg';
+import img15 from '../../img/infantil6/semana2/img15.jpg';
+import img16 from '../../img/infantil6/semana2/img16.jpg';
+import img17 from '../../img/infantil6/semana2/img17.jpg';
+import img18 from '../../img/infantil6/semana2/img18.jpg';
+import img19 from '../../img/infantil6/semana2/img19.jpg';
+import img20 from '../../img/infantil6/semana2/img20.jpg';
+import img21 from '../../img/infantil6/semana2/img21.jpg';
+import img22 from '../../img/infantil6/semana2/img22.jpg';
+import img23 from '../../img/infantil6/semana2/img23.jpg';
+import img24 from '../../img/infantil6/semana3/img24.jpg';
+import img25 from '../../img/infantil6/semana3/img25.jpg';
+import img26 from '../../img/infantil6/semana3/img26.jpg';
+import img27 from '../../img/infantil6/semana3/img27.jpg';
+import img28 from '../../img/infantil6/semana3/img28.jpg';
+import img29 from '../../img/infantil6/semana3/img29.jpg';
+import img30 from '../../img/infantil6/semana3/img30.jpg';
+import img31 from '../../img/infantil6/semana3/img31.jpg';
+import img32 from '../../img/infantil6/semana3/img32.jpg';
+import img33 from '../../img/infantil6/semana3/img33.jpg';
+import img34 from '../../img/infantil6/semana3/img34.jpg';
+import img35 from '../../img/infantil6/semana4/img35.jpg';
+import img36 from '../../img/infantil6/semana4/img36.jpg';
+import img37 from '../../img/infantil6/semana4/img37.jpg';
+import img38 from '../../img/infantil6/semana4/img38.jpg';
+import img39 from '../../img/infantil6/semana4/img39.jpg';
+import img40 from '../../img/infantil6/semana4/img40.jpg';
+import img41 from '../../img/infantil6/semana4/img41.jpg';
+import img42 from '../../img/infantil6/semana4/img42.jpg';
+import img43 from '../../img/infantil6/semana4/img43.jpg';
+import img44 from '../../img/infantil6/semana4/img44.jpg';
+import img45 from '../../img/infantil6/semana4/img45.jpg';
+import img46 from '../../img/infantil6/semana4/img46.jpg';
+import img47 from '../../img/infantil6/semana4/img47.jpg';
+import img48 from '../../img/infantil6/semana4/img48.jpg';
+import img49 from '../../img/infantil6/semana5/img49.jpg';
+import img50 from '../../img/infantil6/semana5/img50.jpg';
+import img51 from '../../img/infantil6/semana5/img51.jpg';
+import img52 from '../../img/infantil6/semana5/img52.jpg';
+import img53 from '../../img/infantil6/semana5/img53.jpg';
+import img54 from '../../img/infantil6/semana5/img54.jpg';
+import img55 from '../../img/infantil6/semana5/img55.jpg';
+import img56 from '../../img/infantil6/semana5/img56.jpg';
+import img57 from '../../img/infantil6/semana5/img57.jpg';
+import img58 from '../../img/infantil6/semana5/img58.jpg';
+import img59 from '../../img/infantil6/semana5/img59.jpg';
+import img60 from '../../img/infantil6/semana5/img60.jpg';
 import { TarefasContext } from '../../context/TarefasContext';
 
 
@@ -136,49 +136,19 @@ export default function infantil3(){
 <HomePost 
         corFundo="#fff" 
         titulo= "Aula 8 - Geografia"
-        video = "https://www.youtube.com/embed/YIyjOv6xNDM"
+        video = "https://www.youtube.com/embed/ueLyUIQ9OkA"
     />
 
     <HomePost 
         corFundo="#9A4D89" 
-        titulo= "Aula 9 - Linguagem 05"
-        video = "https://www.youtube.com/embed/J7TmSLwbRfM"
+        titulo= "Aula 9 - Ciências"
+        video = "https://www.youtube.com/embed/UJbS-pexPNI"
     />
 
     <HomePost 
         corFundo="#fff" 
-        titulo= "Aula 10 - Linguagem 06"
-        video = "https://www.youtube.com/embed/vHfv2bkL3M0"
-    />
-
-<HomePost 
-        corFundo="#FFF34A" 
-        titulo= "Aula 11 - Matemática"
-        video = "https://www.youtube.com/embed/33RAgkjRjuQ"
-    />
-
-    <HomePost 
-        corFundo="#fff" 
-        titulo= "Aula 12 - Linguagem"
-        video = "https://www.youtube.com/embed/YkmuI-wytEo"
-    />
-
-<HomePost 
-        corFundo="#4C94DE" 
-        titulo= "Aula 13 - Matemática 01"
-        video = "https://www.youtube.com/embed/jdytXi1OWIM"
-    />
-
-<HomePost 
-        corFundo="#fff" 
-        titulo= "Aula 14 - Matemática 02"
-        video = "https://www.youtube.com/embed/RVuqttcNdSk"
-    />
-
-<HomePost 
-        corFundo="#D3696C" 
-        titulo= "Aula 15 - Linguagem"
-        video = "https://www.youtube.com/embed/bYzHyc1o0Lg"
+        titulo= "Aula 10 - História"
+        video = "https://www.youtube.com/embed/72WxcYXv9DU"
     />
      <ImagensTarefa 
         corFundo="#fff" 

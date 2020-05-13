@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="container">
             <div className="row">
                 <div className="col-12 col-md">
-                    <img className="mb-2" src={logo} alt="" width="50" height="50" />
+                    <img className="mb-2" src={logo} alt="" width="80" height="80" />
                     <small className="d-block mb-3 text-muted">BrotherTec© 2020. Todos os direitos reservados.</small>
                 </div>
                 <div className="col-6 col-md">
