@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/colegioreact/static/css/main.932c03be.chunk.css",
-    "main.js": "/colegioreact/static/js/main.b6d67c34.chunk.js",
-    "main.js.map": "/colegioreact/static/js/main.b6d67c34.chunk.js.map",
+    "main.js": "/colegioreact/static/js/main.6b5ea4b0.chunk.js",
+    "main.js.map": "/colegioreact/static/js/main.6b5ea4b0.chunk.js.map",
     "runtime-main.js": "/colegioreact/static/js/runtime-main.1d14e146.js",
     "runtime-main.js.map": "/colegioreact/static/js/runtime-main.1d14e146.js.map",
     "static/js/2.503b2517.chunk.js": "/colegioreact/static/js/2.503b2517.chunk.js",
     "static/js/2.503b2517.chunk.js.map": "/colegioreact/static/js/2.503b2517.chunk.js.map",
     "index.html": "/colegioreact/index.html",
-    "precache-manifest.6165dc1581bc68b11379e9e950a41ca1.js": "/colegioreact/precache-manifest.6165dc1581bc68b11379e9e950a41ca1.js",
+    "precache-manifest.a6966d0f7327f9640623f4579498b9fb.js": "/colegioreact/precache-manifest.a6966d0f7327f9640623f4579498b9fb.js",
     "service-worker.js": "/colegioreact/service-worker.js",
     "static/css/main.932c03be.chunk.css.map": "/colegioreact/static/css/main.932c03be.chunk.css.map",
     "static/js/2.503b2517.chunk.js.LICENSE.txt": "/colegioreact/static/js/2.503b2517.chunk.js.LICENSE.txt",
@@ -104,6 +104,6 @@
     "static/js/runtime-main.1d14e146.js",
     "static/js/2.503b2517.chunk.js",
     "static/css/main.932c03be.chunk.css",
-    "static/js/main.b6d67c34.chunk.js"
+    "static/js/main.6b5ea4b0.chunk.js"
   ]
 }
