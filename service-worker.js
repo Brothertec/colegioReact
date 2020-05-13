@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/colegioreact/precache-manifest.a09b8416b328e4ff1b24dee3b1c6d480.js"
+  "/colegioreact/precache-manifest.6165dc1581bc68b11379e9e950a41ca1.js"
 );
 
 self.addEventListener('message', (event) => {
