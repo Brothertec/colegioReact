@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/colegioreact/static/css/main.932c03be.chunk.css",
-    "main.js": "/colegioreact/static/js/main.6b5ea4b0.chunk.js",
-    "main.js.map": "/colegioreact/static/js/main.6b5ea4b0.chunk.js.map",
+    "main.js": "/colegioreact/static/js/main.c230086a.chunk.js",
+    "main.js.map": "/colegioreact/static/js/main.c230086a.chunk.js.map",
     "runtime-main.js": "/colegioreact/static/js/runtime-main.1d14e146.js",
     "runtime-main.js.map": "/colegioreact/static/js/runtime-main.1d14e146.js.map",
-    "static/js/2.503b2517.chunk.js": "/colegioreact/static/js/2.503b2517.chunk.js",
-    "static/js/2.503b2517.chunk.js.map": "/colegioreact/static/js/2.503b2517.chunk.js.map",
+    "static/js/2.6549ebcd.chunk.js": "/colegioreact/static/js/2.6549ebcd.chunk.js",
+    "static/js/2.6549ebcd.chunk.js.map": "/colegioreact/static/js/2.6549ebcd.chunk.js.map",
     "index.html": "/colegioreact/index.html",
-    "precache-manifest.a6966d0f7327f9640623f4579498b9fb.js": "/colegioreact/precache-manifest.a6966d0f7327f9640623f4579498b9fb.js",
+    "precache-manifest.d3ddd859bba43c9136468f807b4fd1d2.js": "/colegioreact/precache-manifest.d3ddd859bba43c9136468f807b4fd1d2.js",
     "service-worker.js": "/colegioreact/service-worker.js",
     "static/css/main.932c03be.chunk.css.map": "/colegioreact/static/css/main.932c03be.chunk.css.map",
-    "static/js/2.503b2517.chunk.js.LICENSE.txt": "/colegioreact/static/js/2.503b2517.chunk.js.LICENSE.txt",
+    "static/js/2.6549ebcd.chunk.js.LICENSE.txt": "/colegioreact/static/js/2.6549ebcd.chunk.js.LICENSE.txt",
     "static/media/2anos.docx": "/colegioreact/static/media/2anos.1f974511.docx",
     "static/media/3anos.docx": "/colegioreact/static/media/3anos.db79e390.docx",
     "static/media/4anos.docx": "/colegioreact/static/media/4anos.942fe551.docx",
@@ -102,8 +102,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1d14e146.js",
-    "static/js/2.503b2517.chunk.js",
+    "static/js/2.6549ebcd.chunk.js",
     "static/css/main.932c03be.chunk.css",
-    "static/js/main.6b5ea4b0.chunk.js"
+    "static/js/main.c230086a.chunk.js"
   ]
 }

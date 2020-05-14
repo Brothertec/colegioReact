@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ea09df4d37f971d342fcc3d9946e2fb",
+    "revision": "889b77859a4453d19b28576e86972ece",
     "url": "/colegioreact/index.html"
   },
   {
-    "revision": "dd666eefaadd2bff23f1",
+    "revision": "e82e185acabfde0d94c1",
     "url": "/colegioreact/static/css/main.932c03be.chunk.css"
   },
   {
-    "revision": "1d04ea634f2ab84495f0",
-    "url": "/colegioreact/static/js/2.503b2517.chunk.js"
+    "revision": "368fb932634cc33c1d51",
+    "url": "/colegioreact/static/js/2.6549ebcd.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/colegioreact/static/js/2.503b2517.chunk.js.LICENSE.txt"
+    "url": "/colegioreact/static/js/2.6549ebcd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd666eefaadd2bff23f1",
-    "url": "/colegioreact/static/js/main.6b5ea4b0.chunk.js"
+    "revision": "e82e185acabfde0d94c1",
+    "url": "/colegioreact/static/js/main.c230086a.chunk.js"
   },
   {
     "revision": "b9dde971e967785cb793",
