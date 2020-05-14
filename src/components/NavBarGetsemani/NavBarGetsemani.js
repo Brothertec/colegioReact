@@ -21,7 +21,7 @@ export default function NavBarGetsemani(props) {
         <div>
             <ModalSenha componente={componenteSelecionado}/>
             <Nav logo={logo}>
-                <NavLink active={true} link='/' nome='Início' />
+                <NavLink link='/' nome='Início' />
                 <NavLink link='/Sobre' nome='Sobre' />
                 <NavDropDown>
                     <NavDropDownItem nome='Berçario I e II' componente='Bercario'/>
