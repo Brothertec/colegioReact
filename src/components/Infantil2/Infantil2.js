@@ -22,6 +22,9 @@ import img16 from '../../img/infantil2/semana4/img16.jpg';
 import img17 from '../../img/infantil2/semana5/img17.jpg';
 import img18 from '../../img/infantil2/semana5/img18.jpg';
 import img19 from '../../img/infantil2/semana5/img19.jpg';
+import img20 from '../../img/infantil2/semana7/img20.jpg';
+import img21 from '../../img/infantil2/semana7/img21.jpg';
+import img22 from '../../img/infantil2/semana7/img22.jpg';
 import { TarefasContext } from '../../context/TarefasContext';
 
 
@@ -32,6 +35,8 @@ export default function Bercario(){
     const listaImagens3 = [img8, img9, img10, img11, img12];
     const listaImagens4 = [img13, img14, img15, img16];
     const listaImagens5 = [img17, img18, img19];
+    const listaImagens6 = [];
+    const listaImagens7 = [img20, img21, img22];
     return(
         <div>  <HomePost
         corFundo="#cae1f9"
@@ -127,6 +132,37 @@ export default function Bercario(){
         titulo= "Aula 13 - Vogais"
         video = "https://www.youtube.com/embed/BqcQ4-sugEQ"
     />
+
+<HomePost 
+        corFundo="#fff" 
+        titulo= "Aula 14 - Datas comemorativas"
+        video = "https://www.youtube.com/embed/MAN7_IuUhzM"
+    />
+
+    <HomePost 
+        corFundo="#D3696C" 
+        titulo= "Aula 15 - Matemática"
+        video = "https://www.youtube.com/embed/o-yYqwuHDCQ"
+    />
+
+<HomePost 
+        corFundo="#fff" 
+        titulo= "Aula 16"
+        video = "https://www.youtube.com/embed/YoWEaJ-N5EM"
+    />
+
+<ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 07"
+        principal="13/maio até 15/maio. Clique nas imagens para baixar a tarefa."
+        imagens = {listaImagens7}
+       />
+       <ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 06 - TRABALHO DIRIGIDO"
+        principal="02/maio até 12/maio."
+        imagens = {listaImagens6}
+       />
     <ImagensTarefa 
         corFundo="#fff" 
         titulo= "Tarefa semanal 05"

@@ -45,6 +45,13 @@ import img39 from '../../img/infantil4/semana5/img39.jpg';
 import img40 from '../../img/infantil4/semana5/img40.jpg';
 import img41 from '../../img/infantil4/semana5/img41.jpg';
 import img42 from '../../img/infantil4/semana5/img42.jpg';
+import img43 from '../../img/infantil4/semana7/img43.jpg';
+import img44 from '../../img/infantil4/semana7/img44.jpg';
+import img45 from '../../img/infantil4/semana7/img45.jpg';
+import img46 from '../../img/infantil4/semana7/img46.jpg';
+import img47 from '../../img/infantil4/semana7/img47.jpg';
+import img48 from '../../img/infantil4/semana7/img48.jpg';
+import img49 from '../../img/infantil4/semana7/img49.jpg';
 import { TarefasContext } from '../../context/TarefasContext';
 
 
@@ -55,6 +62,8 @@ export default function infantil3(){
     const listaImagens3 = [img16, img17, img18, img19, img20, img21, img22, img23, img24, img25];
     const listaImagens4 = [img26, img27, img28, img29, img30, img31, img32, img33];
     const listaImagens5 = [img34, img35, img36, img37, img38, img39, img40, img41, img42];
+    const listaImagens6 = [];
+    const listaImagens7 = [img43, img44, img45, img46, img47, img48, img49];
     return(
         <div>  <HomePost
         corFundo="#cae1f9"
@@ -198,6 +207,36 @@ export default function infantil3(){
         titulo= "Aula 21 - Matemática 03"
         video = "https://www.youtube.com/embed/RVuqttcNdSk"
     />
+
+<HomePost 
+        corFundo="#fff" 
+        titulo= "Aula 22 - Datas comemorativas"
+        video = "https://www.youtube.com/embed/l27w44WpUw4"
+    />
+
+    <HomePost 
+        corFundo="#D3696C" 
+        titulo= "Aula 23 "
+        video = "https://www.youtube.com/embed/FzOfTyihcNc"
+    />
+
+<HomePost 
+        corFundo="#fff" 
+        titulo= "Aula 24 "
+        video = "https://www.youtube.com/embed/VAevax5khqA"
+    />
+   <ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 07"
+        principal="13/maio até 15/maio. Clique nas imagens para baixar a tarefa."
+        imagens = {listaImagens7}
+       />
+          <ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 06 - TRABALHO DIRIGIDO"
+        principal="02/maio até 12/maio."
+        imagens = {listaImagens6}
+       />
 
     <ImagensTarefa 
         corFundo="#fff" 

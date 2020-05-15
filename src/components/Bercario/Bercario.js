@@ -11,11 +11,22 @@ import img5 from '../../img/bercario/semana5/img5.jpg';
 import img6 from '../../img/bercario/semana5/img6.jpg';
 import img7 from '../../img/bercario/semana5/img7.jpg';
 import img8 from '../../img/bercario/semana5/img8.jpg';
+import img9 from '../../img/bercario/semana7/img9.jpeg';
+import img10 from '../../img/bercario/semana7/img10.jpeg';
+import img11 from '../../img/bercario/semana7/img11.png';
+import img12 from '../../img/bercario/semana7/img12.png';
+import img13 from '../../img/bercario/semana7/img13.jpeg';
+import img14 from '../../img/bercario/semana7/img14.jpeg';
+import img15 from '../../img/bercario/semana7/img15.jpeg';
+import img16 from '../../img/bercario/semana7/img16.jpeg';
+import img17 from '../../img/bercario/semana7/img17.jpeg';
 import { TarefasContext } from '../../context/TarefasContext';
 
 export default function Bercario() {
+    const listaImagens =[];
     const listaImagens4 = [img1, img2, img3];
     const listaImagens5 = [img4, img5, img6, img7, img8];
+    const listaImagens7 = [img9, img10, img11, img12, img13, img14, img15, img16, img17];
     return (
         <div>
             <HomePost
@@ -112,6 +123,39 @@ export default function Bercario() {
         titulo= "Aula 13 - Vogais"
         video = "https://www.youtube.com/embed/BqcQ4-sugEQ"
     />
+
+<HomePost 
+        corFundo="#fff" 
+        titulo= "Aula 14 - Datas comemorativas"
+        video = "https://www.youtube.com/embed/MAN7_IuUhzM"
+    />
+
+    <HomePost 
+        corFundo="#D3696C" 
+        titulo= "Aula 15 - Matemática"
+        video = "https://www.youtube.com/embed/o-yYqwuHDCQ"
+    />
+
+<HomePost 
+        corFundo="#fff" 
+        titulo= "Aula 16"
+        video = "https://www.youtube.com/embed/YoWEaJ-N5EM"
+    />
+
+
+<ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 07"
+        principal="13/maio até 15/maio. Clique nas imagens para baixar a tarefa."
+        imagens = {listaImagens7}
+       />
+
+<ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 06 - TRABALHO DIRIGIDO"
+        principal="02/maio até 12/maio."
+        imagens = {listaImagens}
+       />
 
 <ImagensTarefa 
         corFundo="#fff" 

@@ -63,6 +63,17 @@ import img57 from '../../img/infantil7/semana5/img57.jpg';
 import img58 from '../../img/infantil7/semana5/img58.jpg';
 import img59 from '../../img/infantil7/semana5/img59.jpg';
 import img60 from '../../img/infantil7/semana5/img60.jpg';
+import img61 from '../../img/infantil7/semana7/img61.jpg';
+import img62 from '../../img/infantil7/semana7/img62.jpg';
+import img63 from '../../img/infantil7/semana7/img63.jpg';
+import img64 from '../../img/infantil7/semana7/img64.jpg';
+import img65 from '../../img/infantil7/semana7/img65.jpg';
+import img66 from '../../img/infantil7/semana7/img66.jpg';
+import img67 from '../../img/infantil7/semana7/img67.jpg';
+import img68 from '../../img/infantil7/semana7/img68.jpg';
+import img69 from '../../img/infantil7/semana7/img69.jpg';
+import img70 from '../../img/infantil7/semana7/img70.jpg';
+import img71 from '../../img/infantil7/semana7/img71.jpg';
 import { TarefasContext } from '../../context/TarefasContext';
 
 
@@ -73,6 +84,8 @@ export default function infantil3(){
     const listaImagens3 = [img25, img26, img27, img28, img29, img30, img31, img32, img33, img34];
     const listaImagens4 = [img35, img36, img37, img38, img39, img40, img41, img42, img43, img44, img45, img46, img47, img48, img49];
     const listaImagens5 = [img50, img51, img52, img53, img54, img55, img56, img57, img58, img59, img60];
+    const listaImagens6 = [];
+    const listaImagens7 = [ img61, img62, img63, img64, img65, img66, img67, img68, img69, img70, img71];
     return(
         <div>  <HomePost
         corFundo="#cae1f9"
@@ -197,6 +210,44 @@ export default function infantil3(){
         titulo= "Aula 18 - História"
         video = "https://www.youtube.com/embed/nlTt_LOSWoA"
     />
+
+<HomePost 
+        corFundo="#9A4D89" 
+        titulo= "Aula 19 - Ciências"
+        video = "https://www.youtube.com/embed/lgc1bAmYjnE"
+    />
+
+    <HomePost 
+        corFundo="#fff" 
+        titulo= "Aula 20 - Geografia"
+        video = "https://www.youtube.com/embed/krehgUBNe34"
+    />
+
+    <HomePost 
+        corFundo="#D3696C" 
+        titulo= "Aula 21 - Matemática"
+        video = "https://www.youtube.com/embed/Fypu4CMit_o"
+    />
+
+<HomePost 
+        corFundo="#fff" 
+        titulo= "Aula 22 - Português"
+        video = "https://www.youtube.com/embed/xt1fHbD5ejk"
+    />
+
+    <ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 07"
+        principal="13/maio até 15/maio. Clique nas imagens para baixar a tarefa."
+        imagens = {listaImagens7}
+       />
+          <ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 06 - TRABALHO DIRIGIDO"
+        principal="02/maio até 12/maio."
+        imagens = {listaImagens6}
+       />
+     
     
      <ImagensTarefa 
         corFundo="#fff" 

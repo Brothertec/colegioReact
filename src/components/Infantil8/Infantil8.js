@@ -74,6 +74,22 @@ import img68 from '../../img/infantil8/semana5/img68.jpg';
 import img69 from '../../img/infantil8/semana5/img69.jpg';
 import img70 from '../../img/infantil8/semana5/img70.jpg';
 import img71 from '../../img/infantil8/semana5/img71.jpg';
+import img72 from '../../img/infantil8/semana7/img72.jpg';
+import img73 from '../../img/infantil8/semana7/img73.jpg';
+import img74 from '../../img/infantil8/semana7/img74.jpg';
+import img75 from '../../img/infantil8/semana7/img75.jpg';
+import img76 from '../../img/infantil8/semana7/img76.jpg';
+import img77 from '../../img/infantil8/semana7/img77.jpg';
+import img78 from '../../img/infantil8/semana7/img78.jpg';
+import img79 from '../../img/infantil8/semana7/img79.jpg';
+import img80 from '../../img/infantil8/semana7/img80.jpg';
+import img81 from '../../img/infantil8/semana7/img81.jpg';
+import img82 from '../../img/infantil8/semana7/img82.jpg';
+import img83 from '../../img/infantil8/semana7/img83.jpg';
+import img84 from '../../img/infantil8/semana7/img84.jpg';
+import img85 from '../../img/infantil8/semana7/img85.jpg';
+import img86 from '../../img/infantil8/semana7/img86.jpg';
+import img87 from '../../img/infantil8/semana7/img87.jpg';
 import { TarefasContext } from '../../context/TarefasContext';
 
 
@@ -84,6 +100,8 @@ export default function infantil3(){
     const listaImagens3 = [img28, img29, img30, img31, img32, img33, img34, img35, img36, img37, img38, img39, img40, img41, img42, img43];
     const listaImagens4 = [img44, img45, img46, img47, img48, img49, img50, img51, img52, img53, img54, img55, img56, img57, img58, img59];
     const listaImagens5 = [img60, img61, img62, img63, img64, img65, img66, img67, img68, img69, img70, img71];
+    const listaImagens6 = [];
+    const listaImagens7 = [ img72, img73, img74, img75, img76, img77, img78, img79, img80, img81, img82, img83, img84, img85, img86, img87];
     return(
         <div>  <HomePost
         corFundo="#cae1f9"
@@ -215,6 +233,19 @@ export default function infantil3(){
         video = "https://www.youtube.com/embed/7n5osyRSsr8"
     />
     
+    <ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 07"
+        principal="13/maio até 15/maio. Clique nas imagens para baixar a tarefa."
+        imagens = {listaImagens7}
+       />
+          <ImagensTarefa 
+        corFundo="#fff" 
+        titulo= "Tarefa semanal 06 - TRABALHO DIRIGIDO"
+        principal="02/maio até 12/maio."
+        imagens = {listaImagens6}
+       />
+
      <ImagensTarefa 
         corFundo="#fff" 
         titulo= "Tarefa semanal 05"
