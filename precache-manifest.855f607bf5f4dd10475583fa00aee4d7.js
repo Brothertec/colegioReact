@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "889b77859a4453d19b28576e86972ece",
+    "revision": "5deb114b704e46ed886c289557158c91",
     "url": "/colegioreact/index.html"
   },
   {
-    "revision": "e82e185acabfde0d94c1",
+    "revision": "0283249276ffbc7d9bdd",
     "url": "/colegioreact/static/css/main.932c03be.chunk.css"
   },
   {
-    "revision": "368fb932634cc33c1d51",
-    "url": "/colegioreact/static/js/2.6549ebcd.chunk.js"
+    "revision": "7c110a622b3583b7a3d7",
+    "url": "/colegioreact/static/js/2.70271aeb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/colegioreact/static/js/2.6549ebcd.chunk.js.LICENSE.txt"
+    "url": "/colegioreact/static/js/2.70271aeb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e82e185acabfde0d94c1",
-    "url": "/colegioreact/static/js/main.c230086a.chunk.js"
+    "revision": "0283249276ffbc7d9bdd",
+    "url": "/colegioreact/static/js/main.50ae8a32.chunk.js"
   },
   {
     "revision": "b9dde971e967785cb793",
@@ -108,6 +108,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img1.fd1019ab.jpg"
   },
   {
+    "revision": "1a03211f76d81b7360f9f0b9d3af9db6",
+    "url": "/colegioreact/static/media/img10.1a03211f.jpeg"
+  },
+  {
     "revision": "1b41da6721be988858dbace08c9e4d80",
     "url": "/colegioreact/static/media/img10.1b41da67.jpg"
   },
@@ -138,6 +142,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d9c585ea52b006a9fcf9200becee4ea7",
     "url": "/colegioreact/static/media/img10.d9c585ea.jpg"
+  },
+  {
+    "revision": "0890c144d286a2a8a87ec967483eebe9",
+    "url": "/colegioreact/static/media/img11.0890c144.png"
   },
   {
     "revision": "4870beca226ef2bc245cef02fb90b4df",
@@ -186,6 +194,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9f9048b73b6621802fff627153571914",
     "url": "/colegioreact/static/media/img12.9f9048b7.jpg"
+  },
+  {
+    "revision": "a69b8fe14a7bd503ef263732b683d006",
+    "url": "/colegioreact/static/media/img12.a69b8fe1.png"
   },
   {
     "revision": "ae74bcb30198869d522b543277e959a3",
@@ -276,6 +288,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img15.22e00879.jpg"
   },
   {
+    "revision": "24bb92eec135c45a1a9e32c459dd6538",
+    "url": "/colegioreact/static/media/img15.24bb92ee.jpeg"
+  },
+  {
     "revision": "3d2808753deb853fb56ef660c52eb5ae",
     "url": "/colegioreact/static/media/img15.3d280875.jpg"
   },
@@ -298,6 +314,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e37871e869c2ad8975b74bcbb0dd9a52",
     "url": "/colegioreact/static/media/img15.e37871e8.jpg"
+  },
+  {
+    "revision": "122ab10c245611a3dfe5c4fc185afb02",
+    "url": "/colegioreact/static/media/img16.122ab10c.jpeg"
   },
   {
     "revision": "3b1d48ed8875a7f1165b94a1080d9d6b",
@@ -334,6 +354,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "12366f9a4ff0c832875d14a1397c1b16",
     "url": "/colegioreact/static/media/img17.12366f9a.jpg"
+  },
+  {
+    "revision": "367d800594c486e1f0424cc9c45aae69",
+    "url": "/colegioreact/static/media/img17.367d8005.jpeg"
   },
   {
     "revision": "3f462cf958c65b979a673581c1b1fc62",
@@ -464,6 +488,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img2.f2321efd.jpg"
   },
   {
+    "revision": "2189b0fcb2809edea4ba6106f388bbe1",
+    "url": "/colegioreact/static/media/img20.2189b0fc.jpg"
+  },
+  {
     "revision": "3398f6a1caa968580c186b42b187b888",
     "url": "/colegioreact/static/media/img20.3398f6a1.jpg"
   },
@@ -494,6 +522,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "25907e30a5c74d86334bd67f267ee343",
     "url": "/colegioreact/static/media/img21.25907e30.jpg"
+  },
+  {
+    "revision": "355f9f5fa503cfa21e87d31e9ffa6f7e",
+    "url": "/colegioreact/static/media/img21.355f9f5f.jpg"
   },
   {
     "revision": "755e214a987fd8191804f61687de6927",
@@ -530,6 +562,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "30a3ef16b44719d81c8c7f2d5063e156",
     "url": "/colegioreact/static/media/img22.30a3ef16.jpg"
+  },
+  {
+    "revision": "51d0e61f8ccf361a8119c9e00f617141",
+    "url": "/colegioreact/static/media/img22.51d0e61f.jpg"
   },
   {
     "revision": "62f6816147b169d0f12740b07b28d4a2",
@@ -968,8 +1004,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img36.8d4ec288.jpg"
   },
   {
+    "revision": "cb601e9483b5300f302c6c0950da3c91",
+    "url": "/colegioreact/static/media/img36.cb601e94.jpg"
+  },
+  {
     "revision": "faa12b89f33b9fb138ca6d51546ff349",
     "url": "/colegioreact/static/media/img36.faa12b89.jpg"
+  },
+  {
+    "revision": "129f2bb2253d92d7c34292fa9a6f94a5",
+    "url": "/colegioreact/static/media/img37.129f2bb2.jpg"
   },
   {
     "revision": "27dcaf2333ce30f928311a9195c5ba18",
@@ -1000,6 +1044,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img38.128521c8.jpg"
   },
   {
+    "revision": "3538a63cfcc1267d992acefdee00573a",
+    "url": "/colegioreact/static/media/img38.3538a63c.jpg"
+  },
+  {
     "revision": "a86c2fd2652f75202548fbc406b9c665",
     "url": "/colegioreact/static/media/img38.a86c2fd2.jpg"
   },
@@ -1022,6 +1070,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7ef6f337d4e6c3c86292cae7b42dd8de",
     "url": "/colegioreact/static/media/img39.7ef6f337.jpg"
+  },
+  {
+    "revision": "825e1b9703b22b9a9d98082dea916358",
+    "url": "/colegioreact/static/media/img39.825e1b97.jpg"
   },
   {
     "revision": "a1490d830cdabc8ce459baff8db0a4ce",
@@ -1104,8 +1156,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img40.f9901080.jpg"
   },
   {
+    "revision": "fd2a8ad70d0ff72a107a1b98b37d206a",
+    "url": "/colegioreact/static/media/img40.fd2a8ad7.jpg"
+  },
+  {
     "revision": "0f32e76a8a1088bd450151436cb0b1a3",
     "url": "/colegioreact/static/media/img41.0f32e76a.jpg"
+  },
+  {
+    "revision": "92dbf35b9ec407f1b41d41d4c8624008",
+    "url": "/colegioreact/static/media/img41.92dbf35b.jpg"
   },
   {
     "revision": "9bf520bec343b9c33f091c395cf0c741",
@@ -1168,6 +1228,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img43.c9ed7493.jpg"
   },
   {
+    "revision": "f20889ccb7ed438c6024b314fd6e2f81",
+    "url": "/colegioreact/static/media/img43.f20889cc.jpg"
+  },
+  {
     "revision": "f7ebc009259fe3d728ace7dc9046fce8",
     "url": "/colegioreact/static/media/img43.f7ebc009.jpg"
   },
@@ -1188,6 +1252,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img44.d66a2c66.jpg"
   },
   {
+    "revision": "e54b60435f2150ada344390e3d0a0924",
+    "url": "/colegioreact/static/media/img44.e54b6043.jpg"
+  },
+  {
     "revision": "fe34b0b954a0d2fb0609ff29038a75e4",
     "url": "/colegioreact/static/media/img44.fe34b0b9.jpg"
   },
@@ -1198,6 +1266,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1a7b23fc9dcad76486872ab51623caab",
     "url": "/colegioreact/static/media/img45.1a7b23fc.jpg"
+  },
+  {
+    "revision": "25a009df35906e4c7bc574ffd429b803",
+    "url": "/colegioreact/static/media/img45.25a009df.jpg"
   },
   {
     "revision": "b0728498f1e5d0f1ddf3a2cd56941ef0",
@@ -1216,6 +1288,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img46.07b887fd.jpg"
   },
   {
+    "revision": "17eedd16106407a95f15ee04278029c2",
+    "url": "/colegioreact/static/media/img46.17eedd16.jpg"
+  },
+  {
     "revision": "2e74cae0dd3a1f03378d954d593e506c",
     "url": "/colegioreact/static/media/img46.2e74cae0.jpg"
   },
@@ -1230,6 +1306,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc456c50cf7aac9aa070db68cec319bb",
     "url": "/colegioreact/static/media/img46.fc456c50.jpg"
+  },
+  {
+    "revision": "1f845202a3e7e7373b0981f4a07f7252",
+    "url": "/colegioreact/static/media/img47.1f845202.jpg"
   },
   {
     "revision": "2a5d325d697e4d62ced5d98f3940c77a",
@@ -1250,6 +1330,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e244c487869a7992871620bb391e9b05",
     "url": "/colegioreact/static/media/img47.e244c487.jpg"
+  },
+  {
+    "revision": "078bf75dcd16cb93006f2999f9af4d69",
+    "url": "/colegioreact/static/media/img48.078bf75d.jpg"
   },
   {
     "revision": "1ac90667f9904140e77073c5d3974000",
@@ -1278,6 +1362,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b4777157b7b0d987af57ced11a30720",
     "url": "/colegioreact/static/media/img49.2b477715.jpg"
+  },
+  {
+    "revision": "70105aedee698f5fa7f5e841145993af",
+    "url": "/colegioreact/static/media/img49.70105aed.jpg"
   },
   {
     "revision": "90eef2c2ecfbaf195308b18093b86a2a",
@@ -1356,6 +1444,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img51.37cd8fc7.jpg"
   },
   {
+    "revision": "d663465a75611ad11412f5525b814e33",
+    "url": "/colegioreact/static/media/img51.d663465a.jpg"
+  },
+  {
     "revision": "e0da5bd1ce69ed1d5d44d0249eaf6181",
     "url": "/colegioreact/static/media/img51.e0da5bd1.jpg"
   },
@@ -1378,6 +1470,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "da6a9c84bd403df2fa590975020f0ccc",
     "url": "/colegioreact/static/media/img52.da6a9c84.jpg"
+  },
+  {
+    "revision": "f7234f077e228af30d99ae57aaecb827",
+    "url": "/colegioreact/static/media/img52.f7234f07.jpg"
+  },
+  {
+    "revision": "0411d2c83bd60b91b19a7faa192849cd",
+    "url": "/colegioreact/static/media/img53.0411d2c8.jpg"
   },
   {
     "revision": "0dd1eb67543f8eedd9b9d7780e8b6ec1",
@@ -1412,8 +1512,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img54.c9fe9063.jpg"
   },
   {
+    "revision": "dd63cf2a879788268313d9c7cad7606c",
+    "url": "/colegioreact/static/media/img54.dd63cf2a.jpg"
+  },
+  {
     "revision": "2733fe2f48d811f8a0ae6f77eb062151",
     "url": "/colegioreact/static/media/img55.2733fe2f.jpg"
+  },
+  {
+    "revision": "9e2353adbe3e171435e346a5532e2c8d",
+    "url": "/colegioreact/static/media/img55.9e2353ad.jpg"
   },
   {
     "revision": "b31b2c4c09645b1665fcc84a7518025b",
@@ -1444,8 +1552,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img56.81e22868.jpg"
   },
   {
+    "revision": "d712ac0a9fce3e712886f2c2effe7ad2",
+    "url": "/colegioreact/static/media/img56.d712ac0a.jpg"
+  },
+  {
     "revision": "0fc484909dc762cb8f69e3faae8d2632",
     "url": "/colegioreact/static/media/img57.0fc48490.jpg"
+  },
+  {
+    "revision": "1744b7b52b4e2dce941debd9c167baab",
+    "url": "/colegioreact/static/media/img57.1744b7b5.jpg"
   },
   {
     "revision": "4d7875625d1137beb48881493f1a16ca",
@@ -1458,6 +1574,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d2509bf4a38ef47e3176ae8b8433992b",
     "url": "/colegioreact/static/media/img57.d2509bf4.jpg"
+  },
+  {
+    "revision": "7473febaf3af7cb87d582104602f9f8b",
+    "url": "/colegioreact/static/media/img58.7473feba.jpg"
   },
   {
     "revision": "8ce29e2e4881dee79038973325b018b3",
@@ -1544,12 +1664,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img60.e82bffd4.jpg"
   },
   {
+    "revision": "439c25987334269cce2d4daf6967756d",
+    "url": "/colegioreact/static/media/img61.439c2598.jpg"
+  },
+  {
     "revision": "9a6266f531df341ecc174309777ccfc5",
     "url": "/colegioreact/static/media/img61.9a6266f5.jpg"
   },
   {
+    "revision": "cce8b1ba6cb3fbe503f89746a4ec85a6",
+    "url": "/colegioreact/static/media/img61.cce8b1ba.jpg"
+  },
+  {
     "revision": "f4df5b29ba37a8c3f477334c34992015",
     "url": "/colegioreact/static/media/img61.f4df5b29.jpg"
+  },
+  {
+    "revision": "5684ca27343153a5aebb289b96e653d8",
+    "url": "/colegioreact/static/media/img62.5684ca27.jpg"
+  },
+  {
+    "revision": "6fdc81847e67b9e36e3939dcf84e7029",
+    "url": "/colegioreact/static/media/img62.6fdc8184.jpg"
   },
   {
     "revision": "8a6d620baa55e7abfff39afb719dbb68",
@@ -1560,32 +1696,116 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img62.8af50b50.jpg"
   },
   {
+    "revision": "3ad0600329cccfa6252d7a0b41d84f48",
+    "url": "/colegioreact/static/media/img63.3ad06003.jpg"
+  },
+  {
+    "revision": "4869330abcfda4ab81b713cd703e3d57",
+    "url": "/colegioreact/static/media/img63.4869330a.jpg"
+  },
+  {
+    "revision": "9276145fcc9ce26f8619ff63a05b3a74",
+    "url": "/colegioreact/static/media/img63.9276145f.jpg"
+  },
+  {
     "revision": "a04686a3c0b030805bdd8c59c01adc39",
     "url": "/colegioreact/static/media/img63.a04686a3.jpg"
+  },
+  {
+    "revision": "1c49ef2b19c58a97169a33f446b08c80",
+    "url": "/colegioreact/static/media/img64.1c49ef2b.jpg"
+  },
+  {
+    "revision": "918e174bd322fb2cb4e4dccc162170d2",
+    "url": "/colegioreact/static/media/img64.918e174b.jpg"
+  },
+  {
+    "revision": "99a975cebec403bd3b691775a5f0f055",
+    "url": "/colegioreact/static/media/img64.99a975ce.jpg"
   },
   {
     "revision": "cc2151d49bfcc44fe2c078dd878f5645",
     "url": "/colegioreact/static/media/img64.cc2151d4.jpg"
   },
   {
+    "revision": "1b37ccc9426fa4ac5bf2c51acc4b0ce5",
+    "url": "/colegioreact/static/media/img65.1b37ccc9.jpg"
+  },
+  {
+    "revision": "443742805184292d06ff836702cdaf2b",
+    "url": "/colegioreact/static/media/img65.44374280.jpg"
+  },
+  {
+    "revision": "4cce5f09e8c502d3ec0b7f68abc14ac7",
+    "url": "/colegioreact/static/media/img65.4cce5f09.jpg"
+  },
+  {
     "revision": "9cb2c8998586239aa79d5862c447cf5d",
     "url": "/colegioreact/static/media/img65.9cb2c899.jpg"
+  },
+  {
+    "revision": "5251fa374d0caa54cb9742cdb95d2d16",
+    "url": "/colegioreact/static/media/img66.5251fa37.jpg"
+  },
+  {
+    "revision": "bf92bccdfd90c8f4815d0d5434be0a84",
+    "url": "/colegioreact/static/media/img66.bf92bccd.jpg"
   },
   {
     "revision": "dd272dbd2c3c48eba312e76e1e608e04",
     "url": "/colegioreact/static/media/img66.dd272dbd.jpg"
   },
   {
+    "revision": "f9ca562e7c5597aed42e75c5c1627a5d",
+    "url": "/colegioreact/static/media/img66.f9ca562e.jpg"
+  },
+  {
+    "revision": "3b4e1e0d7e2a7b1dd806a01903e1cfbb",
+    "url": "/colegioreact/static/media/img67.3b4e1e0d.jpg"
+  },
+  {
+    "revision": "72089ee7f540426af6cb37dcc12f910e",
+    "url": "/colegioreact/static/media/img67.72089ee7.jpg"
+  },
+  {
+    "revision": "d729d71966f70548a8a6fb9fbefe37cd",
+    "url": "/colegioreact/static/media/img67.d729d719.jpg"
+  },
+  {
     "revision": "ed407d6ec5913fdd7634f125eb89ee7f",
     "url": "/colegioreact/static/media/img67.ed407d6e.jpg"
+  },
+  {
+    "revision": "2992b31084d621774d93a4ead41eb6a9",
+    "url": "/colegioreact/static/media/img68.2992b310.jpg"
+  },
+  {
+    "revision": "69a1f0769490e002d8d070575e3723fa",
+    "url": "/colegioreact/static/media/img68.69a1f076.jpg"
   },
   {
     "revision": "a08eb6e772ae044de0f4147237689987",
     "url": "/colegioreact/static/media/img68.a08eb6e7.jpg"
   },
   {
+    "revision": "c3c130071319a5bcdad201796a2efdcf",
+    "url": "/colegioreact/static/media/img68.c3c13007.jpg"
+  },
+  {
+    "revision": "0e093ec6148c64c77ca189bd1c49eb10",
+    "url": "/colegioreact/static/media/img69.0e093ec6.jpg"
+  },
+  {
     "revision": "2707c177b0f72d1a68eae142694e21cb",
     "url": "/colegioreact/static/media/img69.2707c177.jpg"
+  },
+  {
+    "revision": "84b2261722f4e3dbf56fd4fb30d224c9",
+    "url": "/colegioreact/static/media/img69.84b22617.jpg"
+  },
+  {
+    "revision": "b8638a6e4dffc183012afc9fb59d218b",
+    "url": "/colegioreact/static/media/img69.b8638a6e.jpg"
   },
   {
     "revision": "1d10ab67030240f5de3c913bf679c854",
@@ -1624,12 +1844,80 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img7.c0b405a7.jpg"
   },
   {
+    "revision": "7383ce78e52882cb42a24843daa36caa",
+    "url": "/colegioreact/static/media/img70.7383ce78.jpg"
+  },
+  {
+    "revision": "793271e272c45790b4294ba408ef6243",
+    "url": "/colegioreact/static/media/img70.793271e2.jpg"
+  },
+  {
     "revision": "9d69f2b14806a6b08b23991762b0a65a",
     "url": "/colegioreact/static/media/img70.9d69f2b1.jpg"
   },
   {
+    "revision": "a20c4e642c9c652ec0595d521a36b119",
+    "url": "/colegioreact/static/media/img70.a20c4e64.jpg"
+  },
+  {
+    "revision": "5cbd228d10ac2ffcd6346a0c744aad4c",
+    "url": "/colegioreact/static/media/img71.5cbd228d.jpg"
+  },
+  {
+    "revision": "cb96d22bc8790cdfb75b68f66e19527e",
+    "url": "/colegioreact/static/media/img71.cb96d22b.jpg"
+  },
+  {
     "revision": "ce356c057bc6a36c374e18fcf345423c",
     "url": "/colegioreact/static/media/img71.ce356c05.jpg"
+  },
+  {
+    "revision": "d8c1602803b02a46cd528c2817412593",
+    "url": "/colegioreact/static/media/img71.d8c16028.jpg"
+  },
+  {
+    "revision": "3564b295b1bc35d00cd7cf6b87021201",
+    "url": "/colegioreact/static/media/img72.3564b295.jpg"
+  },
+  {
+    "revision": "3ad0600329cccfa6252d7a0b41d84f48",
+    "url": "/colegioreact/static/media/img72.3ad06003.jpg"
+  },
+  {
+    "revision": "1a920ee658054d68ed3970508c868e4b",
+    "url": "/colegioreact/static/media/img73.1a920ee6.jpg"
+  },
+  {
+    "revision": "7cebd3fbf48bdf2a961a11d430ab4fce",
+    "url": "/colegioreact/static/media/img73.7cebd3fb.jpg"
+  },
+  {
+    "revision": "a085b9081c45e3687ff345b6b9c0a6eb",
+    "url": "/colegioreact/static/media/img74.a085b908.jpg"
+  },
+  {
+    "revision": "ad051a7abddace24263fda218763efd9",
+    "url": "/colegioreact/static/media/img74.ad051a7a.jpg"
+  },
+  {
+    "revision": "e266d456c7061af45e7e1b0f147a7021",
+    "url": "/colegioreact/static/media/img75.e266d456.jpg"
+  },
+  {
+    "revision": "625da4dad314d16b48bcf1d969993ef8",
+    "url": "/colegioreact/static/media/img76.625da4da.jpg"
+  },
+  {
+    "revision": "27a2f5a05bb0f3773b8242313cfac406",
+    "url": "/colegioreact/static/media/img77.27a2f5a0.jpg"
+  },
+  {
+    "revision": "082ddadbc4eed37ebc243edfe94ccef4",
+    "url": "/colegioreact/static/media/img78.082ddadb.jpg"
+  },
+  {
+    "revision": "004afe2350e7b226dffca579bbe5e7af",
+    "url": "/colegioreact/static/media/img79.004afe23.jpg"
   },
   {
     "revision": "17290818135c1e01136a5f194f67134a",
@@ -1668,12 +1956,48 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/img8.89e0083f.jpg"
   },
   {
+    "revision": "48014860f0cfbdf77a91b63e65e3af19",
+    "url": "/colegioreact/static/media/img80.48014860.jpg"
+  },
+  {
+    "revision": "3ad0600329cccfa6252d7a0b41d84f48",
+    "url": "/colegioreact/static/media/img81.3ad06003.jpg"
+  },
+  {
+    "revision": "b599e3066c94c8ad9befbea477191bde",
+    "url": "/colegioreact/static/media/img82.b599e306.jpg"
+  },
+  {
+    "revision": "17324e64b7590bafa3db0c17ad38033d",
+    "url": "/colegioreact/static/media/img83.17324e64.jpg"
+  },
+  {
+    "revision": "e26aec73a085557a453da0d7fcc373d1",
+    "url": "/colegioreact/static/media/img84.e26aec73.jpg"
+  },
+  {
+    "revision": "421366581d691e63783f1058ee088321",
+    "url": "/colegioreact/static/media/img85.42136658.jpg"
+  },
+  {
+    "revision": "6f4c8c22518c3ef24e025bc42bb9c373",
+    "url": "/colegioreact/static/media/img86.6f4c8c22.jpg"
+  },
+  {
+    "revision": "f4253cf5926083e9ba710501be186c4c",
+    "url": "/colegioreact/static/media/img87.f4253cf5.jpg"
+  },
+  {
     "revision": "11953b4119f08a2f0afe6b7fd583caa4",
     "url": "/colegioreact/static/media/img9.11953b41.jpg"
   },
   {
     "revision": "1aef952c0456e738d301c85a11634b0e",
     "url": "/colegioreact/static/media/img9.1aef952c.jpg"
+  },
+  {
+    "revision": "2990f02c4658018e899d95fdd58aec01",
+    "url": "/colegioreact/static/media/img9.2990f02c.jpeg"
   },
   {
     "revision": "4aa7e60f3afb77eb238c82d6e7f231ee",
@@ -1712,7 +2036,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/colegioreact/static/media/logo.33c684e7.png"
   },
   {
-    "revision": "c58bbe6011b705e4c33ab5d65134d3f1",
-    "url": "/colegioreact/static/media/logo2.c58bbe60.png"
+    "revision": "b1bf4dc8193482c7a7d8add73d85acba",
+    "url": "/colegioreact/static/media/logo2.b1bf4dc8.png"
   }
 ]);
